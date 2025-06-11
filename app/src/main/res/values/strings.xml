@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Starbucks Clone</string>
+    <string name="good_afternoon">Good Afternoon,</string>
+    <string name="user_name">Jeremy</string>
+    <string name="green_level">Green Level</string>
+    <string name="profile">Profile</string>
+    <string name="inbox">Inbox</string>
+    <string name="e_code">E-Code</string>
+    <string name="star_balance">Star balance</string>
+    <string name="rewards_details">Rewards details</string>
+    <string name="details">Details</string>
+    <string name="redeem">Redeem</string>
+    <string name="programs_and_promotion">Programs and Promotion</string>
+    <string name="see_all">See All</string>
+    <string name="coffee_treat">COFFEE TREAT</string>
+    <string name="repeat">repeat</string>
+    <string name="get_30_off">GET 30% OFF REWARD*</string>
+    <string name="upon_purchase">UPON YOUR PURCHASE</string>
+    <string name="starbucks_news">Starbucks News</string>
+    <string name="pay">Pay</string>
+    <string name="home">Home</string>
+    <string name="card">Card</string>
+    <string name="order">Order</string>
+    <string name="reward">Reward</string>
+    <string name="store">Store</string>
+</resources>
+

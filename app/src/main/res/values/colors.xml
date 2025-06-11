@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Starbucks Brand Colors -->
+    <color name="starbucks_green">#00704A</color>
+    <color name="starbucks_dark_green">#1E3932</color>
+    <color name="starbucks_light_green">#D4E9E2</color>
+    <color name="starbucks_gold">#D4AF37</color>
+    <color name="starbucks_dark_gold">#B8860B</color>
+
+    <!-- Material System Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="medium_gray">#CCCCCC</color>
+    <color name="dark_gray">#666666</color>
+    <color name="red">#FF0000</color>
+
+    <!-- Gradient Colors -->
+    <color name="orange_gradient_start">#FFB347</color>
+    <color name="orange_gradient_end">#FF8C00</color>
+    <color name="yellow_gradient">#FFD700</color>
+</resources>

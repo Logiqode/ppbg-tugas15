@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.StarbucksClone" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/starbucks_green</item>
+        <item name="colorPrimaryVariant">@color/starbucks_dark_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/starbucks_gold</item>
+        <item name="colorSecondaryVariant">@color/starbucks_dark_gold</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorError">@color/red</item>
+        <item name="colorOnError">@color/white</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+        <item name="android:statusBarColor">@color/light_gray</item>
+    </style>
+</resources>
+
